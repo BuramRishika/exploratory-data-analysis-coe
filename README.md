@@ -4,24 +4,37 @@ Exploratory Data Analysis and Imputation
 
 🔍 Work Done
 
-Loaded multiple datasets
-Checked dataset shape, columns, and data types
-Analyzed numerical and categorical variables
-Visualized data using Matplotlib and Seaborn
-Identified missing values
-Applied missing value imputation (mean, median, mode)
-Removed columns with excessive missing data
+1.Loaded multiple datasets
+
+2.Checked dataset shape, columns, and data types
+
+3.Analyzed numerical and categorical variables
+
+4.Visualized data using Matplotlib and Seaborn
+
+5.Identified missing values
+
+6.Applied missing value imputation (mean, median, mode)
+
 🛠️ Tools & Libraries
-
 Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-📊 Datasets Used
 
+*Pandas
+
+*NumPy
+
+*Matplotlib
+
+*Seaborn
+
+*Jupyter Notebook
+
+📊 Datasets Used
 Titanic Dataset
+
 Tips Dataset
+
 Other Seaborn sample datasets
-📌 Conclusion EDA helped understand data distributions, relationships, and data quality. Missing value treatment improved the dataset for further analysis.
+
+📌 Conclusion 
+EDA helped understand data distributions, relationships, and data quality. Missing value treatment improved the dataset for further analysis.
